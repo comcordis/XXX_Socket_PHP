@@ -1,0 +1,6 @@
+project:XXX_Socket_PHP
+deployEnvironment:development
+checkout:master
+commitHash:7f9fde4f7227debca5f092fabeb1478e253d1748
+timestamp:2015-04-13T09:45:56Z
+deployer:operations
